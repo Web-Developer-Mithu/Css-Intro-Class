@@ -1,0 +1,17 @@
+table {
+    color: rgb(140, 247, 10);
+    height: auto;
+    background-color: rgb(227, 10, 165);
+    font-family:'Times New Roman', Times, serif;
+}
+
+
+.heading {
+    text-align: center;
+}
+.data {
+    font-size:80px;
+}
+.sl_no {
+    text-align:center;
+}

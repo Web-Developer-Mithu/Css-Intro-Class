@@ -1,0 +1,5 @@
+Type Of css:
+1. Inline (Write In Tag Section)
+2. Internal (Write in Head Section)
+3. External Css (Write In another folder) (Standard And Profession Way)
+
